@@ -1,9 +1,9 @@
 ---
-title: Ansible - playbook - service
-description: playbook pour action sur les services LINUX
+title: webhook teams
+description: comment creer un webhook
 published: true
 date: 2020-05-29T21:25:01.951Z
-tags: commande, ansible, playbook
+tags: webhook,ingoing
 ---
 # Création d'un webhook entrant dans ms teams
 
